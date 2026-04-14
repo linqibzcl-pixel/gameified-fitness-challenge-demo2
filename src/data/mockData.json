@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "weightKg": 68,
+    "note": "Simulated daily totals for the past month (2026-03-13 — 2026-04-12); calories = reps × 0.32 × (weightKg/70)"
+  },
+  "records": [
+    { "date": "2026-03-13", "reps": 45, "sets": 3, "calories": 14 },
+    { "date": "2026-03-14", "reps": 0, "sets": 0, "calories": 0 },
+    { "date": "2026-03-15", "reps": 90, "sets": 5, "calories": 28 },
+    { "date": "2026-03-16", "reps": 60, "sets": 4, "calories": 18.7 },
+    { "date": "2026-03-17", "reps": 120, "sets": 6, "calories": 37.3 },
+    { "date": "2026-03-18", "reps": 75, "sets": 5, "calories": 23.3 },
+    { "date": "2026-03-19", "reps": 30, "sets": 2, "calories": 9.3 },
+    { "date": "2026-03-20", "reps": 150, "sets": 5, "calories": 46.6 },
+    { "date": "2026-03-21", "reps": 0, "sets": 0, "calories": 0 },
+    { "date": "2026-03-22", "reps": 100, "sets": 5, "calories": 31.1 },
+    { "date": "2026-03-23", "reps": 80, "sets": 4, "calories": 24.9 },
+    { "date": "2026-03-24", "reps": 135, "sets": 6, "calories": 41.9 },
+    { "date": "2026-03-25", "reps": 50, "sets": 3, "calories": 15.5 },
+    { "date": "2026-03-26", "reps": 110, "sets": 5, "calories": 34.1 },
+    { "date": "2026-03-27", "reps": 65, "sets": 4, "calories": 20.1 },
+    { "date": "2026-03-28", "reps": 180, "sets": 6, "calories": 55.9 },
+    { "date": "2026-03-29", "reps": 40, "sets": 2, "calories": 12.4 },
+    { "date": "2026-03-30", "reps": 95, "sets": 5, "calories": 29.4 },
+    { "date": "2026-03-31", "reps": 70, "sets": 4, "calories": 21.7 },
+    { "date": "2026-04-01", "reps": 125, "sets": 5, "calories": 38.7 },
+    { "date": "2026-04-02", "reps": 0, "sets": 0, "calories": 0 },
+    { "date": "2026-04-03", "reps": 85, "sets": 5, "calories": 26.3 },
+    { "date": "2026-04-04", "reps": 140, "sets": 7, "calories": 43.4 },
+    { "date": "2026-04-05", "reps": 55, "sets": 3, "calories": 17 },
+    { "date": "2026-04-06", "reps": 105, "sets": 5, "calories": 32.5 },
+    { "date": "2026-04-07", "reps": 72, "sets": 4, "calories": 22.3 },
+    { "date": "2026-04-08", "reps": 160, "sets": 6, "calories": 49.6 },
+    { "date": "2026-04-09", "reps": 38, "sets": 2, "calories": 11.8 },
+    { "date": "2026-04-10", "reps": 115, "sets": 5, "calories": 35.5 },
+    { "date": "2026-04-11", "reps": 92, "sets": 4, "calories": 28.4 },
+    { "date": "2026-04-12", "reps": 130, "sets": 5, "calories": 40.2 }
+  ]
+}
